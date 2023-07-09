@@ -1,0 +1,3 @@
+A13-v20230709
+| Sync with July Sources
+| Add LockScreen Charging Info (OWN ADDITION)
